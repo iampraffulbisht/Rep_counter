@@ -1,5 +1,5 @@
 <img width="1280" alt="Screenshot 2024-06-30 at 12 31 57 AM" src="https://github.com/iampraffulbisht/Ai-trainer-Web-App/assets/114369813/c4d75de9-ff36-4750-9c25-023f207bb724">
-**Web App
+## Web App
 <img width="1680" alt="Screenshot 2024-06-30 at 12 34 05 AM" src="https://github.com/iampraffulbisht/Ai-trainer-Web-App/assets/114369813/ed2e1be8-1361-4b4a-bad1-f1761b020bd8">
 
 # AI Gym Trainer: Posture Detection
